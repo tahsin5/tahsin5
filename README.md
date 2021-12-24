@@ -20,13 +20,13 @@
     </td>
     <td align="center" width="120">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" width="70" height="70" alt="Java" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/560px-Java_programming_language_logo.svg.png" width="70" height="70" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="120">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-Scikit_learn_logo_small.svg.png" width="70" height="70" alt="scikit-learn" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" width="70" height="70" alt="scikit-learn" />
       </a>
       <br>Scikit-Learn
     </td>
@@ -46,13 +46,13 @@
  <tr>                                                                                                                  
     <td align="center" width="120">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/330px-NumPy_logo_2020.svg.png" width="70" height="70" alt="Numpy" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png" width="70" height="70" alt="Numpy" />
       </a>
       <br>Numpy
     </td>
     <td align="center" width="120">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" width="70" height="70" alt="Pandas" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1024px-Pandas_logo.svg.png" width="70" height="70" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
@@ -64,13 +64,13 @@
     </td>
     <td align="center" width="120"> 
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/330px-Docker_%28container_engine%29_logo.svg.png" width="70" height="70" alt="Docker" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" width="70" height="70" alt="Docker" />
       </a>
       <br>Docker
     </td>    
     <td align="center" width="120"> 
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png" width="70" height="70" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="70" height="70" alt="Git" />
       </a>
       <br>Git
     </td>  
