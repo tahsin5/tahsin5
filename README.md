@@ -20,21 +20,21 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" width="48" height="48" alt="Java" />
       </a>
-      <br>Django
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-Scikit_learn_logo_small.svg.pngg" width="48" height="48" alt="scikit-learn" />
       </a>
-      <br>Azure
+      <br>Scikit-Learn
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>TypeScript
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -44,15 +44,15 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/330px-NumPy_logo_2020.svg.png" width="48" height="48" alt="Numpy" />
       </a>
-      <br>Bootstrap
+      <br>Numpy
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" width="48" height="48" alt="Pandas" />
       </a>
-      <br>Node JS
+      <br>Pandas
     </td>
      <td align="center" width="96"> 
       <a href="#" >
