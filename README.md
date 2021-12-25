@@ -20,7 +20,7 @@
     </td>
     <td align="center" width="120">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/560px-Java_programming_language_logo.svg.png" width="70" height="70" alt="Java" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="70" height="70" alt="Java" />
       </a>
       <br>Java
     </td>
