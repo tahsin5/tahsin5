@@ -46,13 +46,13 @@
  <tr>                                                                                                                  
     <td align="center" width="120">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="70" height="70" alt="Numpy" />
+        <img src="https://numpy.org/images/logo.svg" width="70" height="70" alt="Numpy" />
       </a>
       <br>Numpy
     </td>
     <td align="center" width="120">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="70" height="70" alt="Pandas" />
+        <img src="https://pandas.pydata.org/static/img/pandas.svg" width="70" height="70" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
