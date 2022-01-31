@@ -1,7 +1,11 @@
 ### Hi there, I am Tahsinur Rahman👋
 
-- 🔭 I’m currently doing my Master's in Security and Cloud Computing
-- 🌱 I’m currently learning PyTorch
+- 🔭 Master's student in Security and Cloud Computing
+- 🌱 I’m currently: 
+- Learning PyTorch
+- Mastering Python
+- Researching Deep Learning in Security
+- :arrows_clockwise: Brushing up on ReactJS
 - 📫 How to reach me: **[LinkedIn]**
 
 <br>
