@@ -1,6 +1,6 @@
 ### Hi there, I am Tahsinur Rahman👋
 
-<!--- - :man_technologist: Software Engineer Intern, Content Delivery @ Wolt -->
+- :man_technologist: Software Engineer Intern, Content Delivery @ Wolt
 - :books: Master's student in Security and Cloud Computing
 - I’m currently: 
   - :black_nib: Learning PyTorch
