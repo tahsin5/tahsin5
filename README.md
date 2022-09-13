@@ -2,10 +2,9 @@
 
 - :man_technologist: Software Engineer, Content Delivery @ Wolt
 - :books: Master's in Security and Cloud Computing
-- I’m currently: 
-  - :black_nib: Learning PyTorch
+- I’m currently:
   - :hammer: Mastering Python
-  - :atom_symbol: Researching Deep Learning in Security
+  - :black_nib: Learning Go
 - 📫 How to reach me: **[LinkedIn]**
 
 <br>
