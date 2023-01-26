@@ -4,7 +4,7 @@
 - :books: Master's in Security and Cloud Computing
 - I’m currently:
   - :hammer: Mastering Python
-  - :black_nib: Learning Go
+  - :black_nib: Learning Kotlin
 - 📫 How to reach me: **[LinkedIn]**
 
 <br>
