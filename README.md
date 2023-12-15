@@ -1,6 +1,6 @@
 ### Hi there, I am Tahsinur Rahman👋
 
-- :man_technologist: Software Engineer, Content Delivery @ Wolt
+- :man_technologist: Software Engineer, Discovery Browsing @ Wolt
 - :books: Master's in Security and Cloud Computing
 - I’m currently:
   - :hammer: Mastering Python
